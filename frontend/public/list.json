@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "title": "Product Manager",
+    "price": 0,
+    "category": "free",
+    "image": "https://images.pexels.com/photos/762687/pexels-photo-762687.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "title": "Software Engineer",
+    "price": 0,
+    "category": "free",
+   "image": "https://images.pexels.com/photos/144671/pexels-photo-144671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "title": "Graphic Designer",
+    "price": 0,
+    "category": "free",
+     "image": "https://images.pexels.com/photos/24994850/pexels-photo-24994850/free-photo-of-books-on-a-retro-wooden-table-next-to-a-plant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "title": "Data Scientist",
+    "price": 0,
+    "category": "free",
+     "image": "https://images.pexels.com/photos/3150550/pexels-photo-3150550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Green",
+    "title": "Marketing Specialist",
+    "price": 0,
+    "category": "free",
+     "image": "https://images.pexels.com/photos/5238131/pexels-photo-5238131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 6,
+    "name": "Diana Blue",
+    "title": "UX Designer",
+    "price": 0,
+    "category": "free",
+    "image": "https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 7,
+    "name": "Eve Black",
+    "title": "Project Coordinator",
+    "price": 0,
+    "category": "free",
+     "image": "https://images.pexels.com/photos/4052209/pexels-photo-4052209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 8,
+    "name": "Frank White",
+    "title": "Content Writer",
+    "price":0,
+    "category": "Toys",
+    "image": "https://images.pexels.com/photos/1148399/pexels-photo-1148399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 9,
+    "name": "Grace Red",
+    "title": "Product Designer",
+    "price": 0,
+    "category": "Automotive",
+     "image": "https://images.pexels.com/photos/5503752/pexels-photo-5503752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 10,
+    "name": "Henry Yellow",
+    "title": "Sales Manager",
+    "price": 0,
+    "category": "Furniture",
+     "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1721454919~exp=1721458519~hmac=6a63803c9ac941b0610807645d9bbf053b80d88d440ee57153cd3e9cfeb468cf&w=740"
+  }
+]
